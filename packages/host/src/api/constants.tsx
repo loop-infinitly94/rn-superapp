@@ -1,0 +1,1 @@
+export const API_URL = 'http://192.168.70.134:8888/api'; // Replace with your actual API base URL
